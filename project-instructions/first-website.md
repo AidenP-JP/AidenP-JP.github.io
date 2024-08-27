@@ -135,7 +135,7 @@ Above, you'll see this pattern often - notice that we have one `<div>` tag with 
 - **1c.** **CODE:** Add the following boilerplate code in your `index.html` file to get started:
 
   ```HTML
-  <!DOCTYPE HTML>
+  <!DOCTYPE HTML> 
   <html>
       <head>
 
